@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie_BitMatrix", "BitMatrix\Zadanie_BitMatrix.csproj", "{EDED499B-DE94-4885-A757-41C424C76FB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDED499B-DE94-4885-A757-41C424C76FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDED499B-DE94-4885-A757-41C424C76FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDED499B-DE94-4885-A757-41C424C76FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDED499B-DE94-4885-A757-41C424C76FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD1DD8FD-95D2-4A55-9623-AE1983E25972}
+	EndGlobalSection
+EndGlobal
